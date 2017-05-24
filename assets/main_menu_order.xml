@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Exampl
+     <app>com.android.contacts.activities.DialtactsActivity</app>
+-->
+<menu_order>
+<!-- Page1 -->
+    <app>com.android.calendar.AllInOneActivity</app><!-- Calendar -->
+    <app>com.android.browser.BrowserActivity</app><!-- Browser -->
+    <app>com.android.deskclock.DeskClock</app><!-- Clock -->
+    <app>com.fihtdc.weather.activity.WeatherDetailActivity</app><!-- Weather -->
+    <app>com.android.contacts.activities.DialtactsActivity</app><!-- Phone -->
+    <app>com.android.mms.ui.traditional.MessageLaunchActivity</app><!-- Messaging -->
+    <app>com.android.email.activity.Welcome</app><!-- Email -->
+    <app>com.fihtdc.camera.Camera</app><!-- Camera -->
+    <app>com.fihtdc.music.ui.activities.MainActivity</app><!-- Music -->
+    <app>com.fihtdc.gallery.app.Gallery</app><!-- Gallery -->
+    <app>com.fihtdc.gallery.videoplayer.MovieListActivityLauncher</app><!-- VideoPlayer -->
+    <app>com.fihtdc.thememanager.chooser.ChooserActivity</app><!-- Theme -->
+    <app>com.android.settings.Settings</app><!-- Settings -->
+    <app>com.fihtdc.note.NotesActivity</app><!-- Note -->
+    <app>com.android.calculator2.Calculator</app><!-- Calculator -->
+    <app>com.fihtdc.filemanager.FileManager</app><!-- FileManager -->
+    <app>com.fihtdc.customerfeedback.ui.CategorySelectorViewActivity</app><!-- Customer Feedback -->
+    <app>com.fihtdc.infocussupport.InfocusSupportMainScreen</app><!-- InFocus Service -->
+    <app>com.android.contacts.activities.PeopleActivity</app><!-- People -->
+    <app>com.fihtdc.DeviceFinder.DeviceFinderActivity</app><!-- Device Finder -->
+    
+<!-- Page2 -->
+    <app>com.fihtdc.backuptool.MainActivity</app><!-- BackupTool -->
+    <app>com.fihtdc.fmradio.FMRadioActivity</app><!-- FMradio -->
+    <app>com.android.soundrecorder.VoiceNoteRecorder</app><!-- VoiceNote -->
+    <app>com.fihtdc.TrafficControl.DataUsage</app><!-- Traffic Control -->
+    <app>com.android.providers.downloads.ui.DownloadList</app><!-- Downloads -->
+    <app>com.fihtdc.PowerDetective.ui.activity.Intro</app><!-- Power Detective -->
+    <app>com.fihtdc.safebox.activity.AppLoader</app><!-- SafeBox -->
+    <app>com.fihtdc.magictorch.TorchActivity</app><!-- Torch -->
+    <app>com.android.stk.StkLauncherActivity</app><!-- SIM1 Toolkit -->
+    <app>com.android.stk.StkLauncherActivity2</app><!-- SIM2 Toolkit -->
+</menu_order>

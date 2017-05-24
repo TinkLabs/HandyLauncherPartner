@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="infocus_wallpaper_78" id="0x7f020000" />
+    <public type="drawable" name="infocus_wallpaper_78_small" id="0x7f020001" />
+    <public type="drawable" name="infocus_wallpaper_79" id="0x7f020002" />
+    <public type="drawable" name="infocus_wallpaper_79_small" id="0x7f020003" />
+    <public type="drawable" name="infocus_wallpaper_80" id="0x7f020004" />
+    <public type="drawable" name="infocus_wallpaper_80_small" id="0x7f020005" />
+    <public type="drawable" name="infocus_wallpaper_81" id="0x7f020006" />
+    <public type="drawable" name="infocus_wallpaper_81_small" id="0x7f020007" />
+    <public type="drawable" name="infocus_wallpaper_82" id="0x7f020008" />
+    <public type="drawable" name="infocus_wallpaper_82_small" id="0x7f020009" />
+    <public type="drawable" name="infocus_wallpaper_83" id="0x7f02000a" />
+    <public type="drawable" name="infocus_wallpaper_83_small" id="0x7f02000b" />
+    <public type="drawable" name="infocus_wallpaper_84" id="0x7f02000c" />
+    <public type="drawable" name="infocus_wallpaper_84_small" id="0x7f02000d" />
+    <public type="drawable" name="infocus_wallpaper_85" id="0x7f02000e" />
+    <public type="drawable" name="infocus_wallpaper_85_small" id="0x7f02000f" />
+    <public type="drawable" name="infocus_wallpaper_86" id="0x7f020010" />
+    <public type="drawable" name="infocus_wallpaper_86_small" id="0x7f020011" />
+    <public type="drawable" name="infocus_wallpaper_87" id="0x7f020012" />
+    <public type="drawable" name="infocus_wallpaper_87_small" id="0x7f020013" />
+    <public type="drawable" name="infocus_wallpaper_89" id="0x7f020014" />
+    <public type="drawable" name="infocus_wallpaper_89_small" id="0x7f020015" />
+    <public type="drawable" name="infocus_wallpaper_92" id="0x7f020016" />
+    <public type="drawable" name="infocus_wallpaper_92_small" id="0x7f020017" />
+    <public type="drawable" name="infocus_wallpaper_93" id="0x7f020018" />
+    <public type="drawable" name="infocus_wallpaper_93_small" id="0x7f020019" />
+    <public type="drawable" name="infocus_wallpaper_95" id="0x7f02001a" />
+    <public type="drawable" name="infocus_wallpaper_95_small" id="0x7f02001b" />
+    <public type="drawable" name="infocus_wallpaper_96" id="0x7f02001c" />
+    <public type="drawable" name="infocus_wallpaper_96_small" id="0x7f02001d" />
+    <public type="string" name="app_label" id="0x7f030000" />
+    <public type="array" name="partner_wallpapers" id="0x7f040000" />
+</resources>

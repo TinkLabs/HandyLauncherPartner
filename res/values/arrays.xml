@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="partner_wallpapers">
+        <item>infocus_wallpaper_78</item>
+        <item>infocus_wallpaper_79</item>
+        <item>infocus_wallpaper_80</item>
+        <item>infocus_wallpaper_81</item>
+        <item>infocus_wallpaper_82</item>
+        <item>infocus_wallpaper_83</item>
+        <item>infocus_wallpaper_84</item>
+        <item>infocus_wallpaper_85</item>
+        <item>infocus_wallpaper_86</item>
+        <item>infocus_wallpaper_87</item>
+        <item>infocus_wallpaper_89</item>
+        <item>infocus_wallpaper_92</item>
+        <item>infocus_wallpaper_93</item>
+        <item>infocus_wallpaper_95</item>
+        <item>infocus_wallpaper_96</item>
+    </string-array>
+</resources>

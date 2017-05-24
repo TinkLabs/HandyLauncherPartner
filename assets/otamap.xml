@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    OTA map file for package update.
+    The similar component should be included in one <similar> tag.
+    This file should be located at position "/system/etc/launcher/otamap.xml"
+-->
+
+<ota_maps>
+    <!-- Customer FeedBack -->
+    <similar>
+        <component package="com.fihtdc.customerfeedback" class="com.fihtdc.customerfeedback.ui.CategorySelectorViewActivity"/>
+        <component package="com.fihtdc.customerfeedback" class="com.fihtdc.customerfeedback.ui.EntryViewActivity"/>
+    </similar>
+
+    <!-- DeviceFinder -->
+    <similar>
+        <component package="com.fihtdc.DeviceFinder" class="com.fihtdc.DeviceFinder.DeviceFinderActivity"/>
+        <component package="com.fihtdc.DeviceFinder" class="com.fihtdc.DeviceFinder.DeviceFinderActivityBefore"/>
+    </similar>
+
+    <!-- InFocus Service -->
+    <similar>
+        <component package="com.fihtdc.infocussupport" class="com.fihtdc.infocussupport.InFocusSupportActivity"/>
+        <component package="com.fihtdc.infocussupport" class="com.fihtdc.infocussupport.InfocusSupportMainScreen"/>
+    </similar>
+
+    <!-- CamCard -->
+    <similar>
+        <component package="com.intsig.BizCardReader" class="com.intsig.camcard.BcrMainActivity"/>
+        <component package="com.intsig.BizCardReader" class="com.intsig.camcard.BcrFirstLaunchGuide"/>
+    </similar>
+
+    <!-- Google Zhuyin -->
+    <similar>
+        <component package="com.google.android.apps.inputmethod.zhuyin" class="com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity"/>
+        <component package="com.google.android.apps.inputmethod.zhuyin" class="com.google.android.apps.inputmethod.zhuyin.preference.SettingsActivity"/>
+    </similar>
+
+    <!-- Android Input -->
+    <similar>
+        <component package="com.android.inputmethod.latin" class="com.android.inputmethod.latin.setup.SetupActivity"/>
+        <component package="com.android.inputmethod.latin" class="com.android.inputmethod.latin.settings.SettingsActivity"/>
+    </similar>
+
+    <!-- Office editor -->
+    <similar>
+        <component package="cn.wps.moffice_i18n" class="cn.wps.moffice.documentmanager.PreStartActivity"/>
+        <component package="cn.wps.moffice_eng" class="cn.wps.moffice.documentmanager.PreStartActivity"/>
+    </similar>
+
+    <!-- WebCustomize -->
+    <similar>
+        <component package="com.fihtdc.webcustomize" class="com.fihtdc.webcustomize.WebActivtiy"/>
+        <component package="com.fihtdc.webcustomize" class="com.fihtdc.webcustomize.WebActivity"/>
+    </similar>
+
+    <!-- WebCustomize -->
+    <similar>
+        <component package="com.fihtdc.webcustomize" class="com.fihtdc.webcustomize.WebActivity"/>
+        <component package="com.android.browser" class="com.android.browser.BrowserActivity"/>
+    </similar>
+
+    <!-- APTG Emall -->
+    <similar>
+        <component package="com.aptg.emall.android" class="com.aptg.emall.android.APTGEC_StartPage"/>
+        <component package="com.fihtdc.aptglink" class="com.fihtdc.aptglink.shopping"/>
+    </similar>
+
+    <!-- LingXi -->
+    <similar>
+        <component package="com.iflytek.cmcc" class="com.iflytek.viafly.Home"/>
+        <component package="com.iflytek.cmcc" class="com.iflytek.viafly.SplashActivity"/>
+    </similar>
+
+    <!-- And Game -->
+    <similar>
+        <component package="cn.emagsoftware.gamehall" class="cn.emagsoftware.gamehall.GameHallShowcase"/>
+        <component package="com.cmgame.gamehall" class="com.cmgame.gamehall.GameHallShowcase"/>
+    </similar>
+
+    <!-- Baidu Mobile asistant -->
+    <similar>
+        <component package="com.baidu.appsearch" class="com.baidu.appsearch.LauncherActivity"/>
+        <component package="com.baidu.appsearch" class="com.baidu.appsearch.MainTabActivity"/>
+    </similar>
+
+    <!-- TWMLink linekong -->
+    <similar>
+        <component package="com.fihtdc.twmlink" class="com.fihtdc.twmlink.linekong"/>
+        <component package="com.fihtdc.twmlink_linekong" class="com.fihtdc.twmlink_linekong.linekong"/>
+    </similar>
+
+    <!-- TWMLink match life -->
+    <similar>
+        <component package="com.fihtdc.twmlink" class="com.fihtdc.twmlink.match"/>
+        <component package="com.fihtdc.twmlink_match" class="com.fihtdc.twmlink_match.match"/>
+    </similar>
+
+    <!-- TWMLink APPGuru -->
+    <similar>
+        <component package="com.fihtdc.twmlink" class="com.fihtdc.twmlink.appguru"/>
+        <component package="com.fihtdc.twmlink_appguru" class="com.fihtdc.twmlink_appguru.appguru"/>
+    </similar>
+
+    <!-- People Daily -->
+    <similar>
+        <component package="com.peopleClients.views" class="com.peopleClients.views.WelcomeActivity"/>
+        <component package="com.peopledailychina.activity" class="com.peopledailychina.activity.ui.CoverPageActivity"/>
+    </similar>
+
+    <!-- Kineaster -->
+    <similar>
+        <component package="com.nexstreaming.app.kinemaster" class="com.nextreaming.nexeditorui.MainActivity"/>
+        <component package="com.nexstreaming.app.kinemasterfree" class="com.nextreaming.nexeditorui.MainActivity"/>
+    </similar>
+
+    <!-- MYXJ -->
+    <similar>
+        <component package="com.meitu.meiyancamera" class="com.meitu.meiyancamera.MyxjActivity"/>
+        <component package="com.meitu.meiyancamera" class="com.meitu.meiyancamera.FirstActivity"/>
+    </similar>
+
+    <!-- A+ TV -->
+    <similar>
+        <component package="atv.views.show" class="atv.views.show.Item_Login"/>
+        <component package="atv.views.show" class="atv.views.show.MainLogin"/>
+    </similar>
+
+    <!-- Note -->
+    <similar>
+        <component package="com.fihtdc.note" class="com.fihtdc.note.NotesActivity"/>
+        <component package="com.fihtdc.note" class="com.fihtdc.note.note3.NotesListActivity"/>
+    </similar>
+
+    <!-- Sanpdeal -->
+    <similar>
+        <component package="com.snapdeal.main" class="com.snapdeal.ui.activity.MainActivity"/>
+        <component package="com.snapdeal.main" class="com.snapdeal.ui.material.activity.MaterialMainActivity"/>
+    </similar>
+
+    <!-- Bobble -->
+    <similar>
+        <component package="com.touchtalent.bobbleapp" class="com.touchtalent.bobbleapp.SplashActivity_"/>
+        <component package="com.touchtalent.bobbleapp" class="com.touchtalent.bobbleapp.activities.SplashActivity"/>
+    </similar>
+</ota_maps>

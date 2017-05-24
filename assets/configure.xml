@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<configure>
+    <!-- default_type: the default layer mode.
+                       one_layer - only contain home screen.
+                       two_layer - contain home screen and allApps screen.
+         can_change: true - can switch the layer mode. -->
+    <style default_type="one_layer" can_change="true">
+        <!-- screenCount: the home screen pages number
+             mainScreen: the default home screen page
+             pluginEnable: For Fullscreen page view. 
+                           0: Not support fullscreen page view.
+                           1: The fullscreen page view not show default.
+                           2: The fullscreen page view show default.-->
+        <one_layer screenCount="2" mainScreen="0" pluginEnable="2" />
+        <two_layer screenCount="2" mainScreen="0" pluginEnable="2" />
+    </style>
+
+    <!-- hide: true - Don't show the google search bar -->
+    <quick_search_bar hide="false"/>
+    
+    <!-- enable: false - Don't enable app animation -->
+    <launch_app_animation enable="true" /> 
+     
+     
+</configure>

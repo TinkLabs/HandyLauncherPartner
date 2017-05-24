@@ -1,0 +1,117 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: AndroidManifest.xml
+SHA1-Digest: xEMHv9KSFpqNbrgO14ujn30mZ3M=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_85_small.jpg
+SHA1-Digest: Vp8Ec2XZ9IkcKuvlI1wK4ITZAII=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_79_small.jpg
+SHA1-Digest: stNazeuh9nEd6irp1X8XT84Q3mE=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_85.jpg
+SHA1-Digest: jWIi29qtulbet/wv4+jm9jobJrc=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_83_small.jpg
+SHA1-Digest: ivm7h9X9FW/cyRqiYVTetJ2/FZE=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_93.jpg
+SHA1-Digest: ZI0Xf3sIFRVV94MsMtdZWPCcyOQ=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_80.jpg
+SHA1-Digest: FX6fNAyAzXTF7eiSE3oAtpy5kOA=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_81_small.jpg
+SHA1-Digest: SAV3zimYYDE8KSyfoMo3W5i5gNU=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_87_small.jpg
+SHA1-Digest: qxpO3464Q1xdARZ2aa8z/Sd8KZc=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_89.jpg
+SHA1-Digest: Bw6f9tNGU1Haf/uMxtk6S0tX5lA=
+
+Name: assets/main_menu_order.xml
+SHA1-Digest: 0JVv7WrJdKOT1SeCl6RlWYZTA9M=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_92.jpg
+SHA1-Digest: XyYv/8V6f6sy90q+/5tBAmBJ7r8=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_89_small.jpg
+SHA1-Digest: 7ofr4DITRhnCIbMQJDYfqhQzDks=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_84.jpg
+SHA1-Digest: 4Y4bK9pdLTP0kPi+mTqZauCxMyo=
+
+Name: assets/configure.xml
+SHA1-Digest: p7Wx4374Fo+qqEgv4i6xOWHwKBo=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_95_small.jpg
+SHA1-Digest: uyeEPg7s4y7GUFn/KTEDTHrmS1c=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_92_small.jpg
+SHA1-Digest: HklKxM85IEpkoyWZAeCEP/4KEhs=
+
+Name: assets/favorite_two_layer.xml
+SHA1-Digest: HV2G0n3W/aLhUz1JjfnvUPXmiUA=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_84_small.jpg
+SHA1-Digest: 03FLQCqwPqE8pP7MSSIBWMRDfyc=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_79.jpg
+SHA1-Digest: VC9DUWtTQlYlhudiLp1GFlncbZo=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_96.jpg
+SHA1-Digest: +a+38pZ/UDHzwwBauscLRxT+wdA=
+
+Name: assets/favorite_one_layer.xml
+SHA1-Digest: HV2G0n3W/aLhUz1JjfnvUPXmiUA=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_78_small.jpg
+SHA1-Digest: PPrcmwBQKDOkVjcKkTUgpeLc4Xk=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_82.jpg
+SHA1-Digest: nvTPUl99vpXfWx0u8ZeeQgZ87q4=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_83.jpg
+SHA1-Digest: TPg+E3JrH7H6NiTQ9gmLYMm25/I=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_86_small.jpg
+SHA1-Digest: BQQPwZnrR2dM5F1cSG1w/HwX1Ck=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_82_small.jpg
+SHA1-Digest: JRBDnx53z1EFTbVoiW/k/r1OoQk=
+
+Name: assets/otamap.xml
+SHA1-Digest: 7bxgi48cO0uADI7MtUu9ND7FcWI=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_87.jpg
+SHA1-Digest: dF8fnrBPXvk+VY4BJh7wvGpwC7w=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_80_small.jpg
+SHA1-Digest: ft7V1T7PVOpxwfqyEzNQa2ICAu4=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_78.jpg
+SHA1-Digest: 5Ed4p8Mh6HAjGynisUGyJtKSSVM=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_86.jpg
+SHA1-Digest: THzKOxfas/uDYkpGqADx7qyThC4=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_93_small.jpg
+SHA1-Digest: /HoGTiGjIFd4Xn//e8FWRTDuwa4=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_81.jpg
+SHA1-Digest: 3qMERVPckRBshvMzpHvuG9r8xmo=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_95.jpg
+SHA1-Digest: i9+sSOBHQTHvXyyiR9/LfJTvc7o=
+
+Name: resources.arsc
+SHA1-Digest: P0zS8jxXDZkeSXImrwvc1KVTKSY=
+
+Name: res/drawable-nodpi-v4/infocus_wallpaper_96_small.jpg
+SHA1-Digest: SD254DWjsWfcJmS/E0/60rWfER0=
+
+Name: classes.dex
+SHA1-Digest: 067KgWh6goid7XXZEBZN4oO0BDk=
+
