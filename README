@@ -1,5 +1,10 @@
 add handy wallpaper
 
+this repository comes from apktool d InFoucsLauncherPartner.apk
+so no source no makefile here
+you can update resource file and update smali then apktool b InFoucsLauncherPartner
+and sign before install
+
 using below config file on VZH to define default wallpaper
 $ cat /system/etc/wallpaper_config.xml
 <?xml version="1.0" encoding="utf-8"?>
