@@ -71,9 +71,9 @@
 
 .field public static final infocus_wallpaper_95_small:I = 0x7f02001b
 
-.field public static final infocus_wallpaper_96:I = 0x7f02001c
+.field public static final handy_wallpaper_01:I = 0x7f02001c
 
-.field public static final infocus_wallpaper_96_small:I = 0x7f02001d
+.field public static final handy_wallpaper_01_small:I = 0x7f02001d
 
 
 # direct methods
