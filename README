@@ -1,0 +1,17 @@
+add handy wallpaper
+
+using below config file on VZH to define default wallpaper
+$ cat /system/etc/wallpaper_config.xml
+<?xml version="1.0" encoding="utf-8"?>
+<Wallpaper>
+    <project name="default">
+        <sku id="default">
+            <item name="ACTION_PARTNER_CUSTOMIZATION">com.evenwell.foxlauncher.action.PARTNER_CUSTOMIZATION</item>
+            <item name="default_property">06</item>
+            <mapping-wallpaper type="propertyWallpaper" value="01">wallpaper_color</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="02">wallpaper_color</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="04">wallpaper_color</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="06">handy_wallpaper_01</mapping-wallpaper>
+        </sku>
+    </project>
+</Wallpaper>
